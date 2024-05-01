@@ -1,5 +1,5 @@
 name: Cloud check in action
-on:3
+on:
   push:
     branches:
       - main
